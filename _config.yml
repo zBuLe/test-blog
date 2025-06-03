@@ -7,7 +7,7 @@ remote_theme: zbule/bluestar-theme
 
 plugins:
   - jekyll-remote-theme
-  - jekyll-feed
-  - jekyll-seo-tag
+ # - jekyll-feed
+ # - jekyll-seo-tag
 
 # Optional: site navigation, social links, etc.
