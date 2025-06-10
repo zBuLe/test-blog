@@ -5,7 +5,7 @@ title: Home
 
 # Welcome to My Site
 
-This site uses the **BlueStar-Theme** — a clean, minimal Jekyll theme. test 2
+This site uses the **BlueStar-Theme** — a clean, minimal Jekyll theme. test 3
 
 Here’s where you can add your welcome message, personal intro, or project highlights.
 
