@@ -1,7 +1,6 @@
 title: My Cool Site
 description: Built with the BlueStar Jekyll Theme
-baseurl: "" # leave empty or set to your subpath
-url: "https://mycooldomain.com"
+
 
 remote_theme: zbule/bluestar-theme
 
