@@ -10,3 +10,8 @@ plugins:
  # - jekyll-seo-tag
 
 # Optional: site navigation, social links, etc.
+
+font_base: 16px
+panel_width: 22em
+accent_color: blue
+content_max: 68em  
